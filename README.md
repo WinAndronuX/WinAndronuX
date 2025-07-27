@@ -48,6 +48,6 @@ Estoy abierto a nuevas oportunidades de desarrollo y colaboraciones en proyectos
 
 * **LinkedIn:** [ldanielsalazars](www.linkedin.com/in/ldanielsalazars)
 * **Correo electrónico:** [ldaniel.salazars@outlook.com](mailto:ldaniel.salazars@outlook.com)
-* **Portafolio web:** [https://winandronux.github.io/portafolio/]([https://tu_website_personal.com](https://winandronux.github.io/portafolio/))
+* **Portafolio web:** [https://winandronux.github.io/portafolio/](https://winandronux.github.io/portafolio/)
 
 ---
