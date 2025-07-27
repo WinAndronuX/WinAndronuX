@@ -34,14 +34,6 @@ Aquí hay algunas tecnologías y herramientas con las que me gusta trabajar:
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=WinAndronuX&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Principales Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=WinAndronuX&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### ✉️ Conéctate conmigo
 
 Estoy abierto a nuevas oportunidades de desarrollo y colaboraciones en proyectos interesantes. Siempre dispuesto a aprender y compartir conocimientos. ¡No dudes en contactarme!
