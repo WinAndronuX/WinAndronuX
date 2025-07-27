@@ -10,10 +10,10 @@ Actualmente estoy enfocado en aprender sobre **patrones de diseño** y **arquite
 
 Aquí hay algunas tecnologías y herramientas con las que me gusta trabajar:
 
-**Lenguajes de Programación:** `Go` `Python` `Java` `JavaScript`
-**Frameworks/Librerías:** `Echo` `Fiber` `Django` `Spring`
-**Bases de Datos:** `PostgreSQL` `MongoDB` `MySQL`
-**Herramientas y DevOps:** `Git` `Docker` `Linux`
+* **Lenguajes de Programación:** `Go` `Python` `Java` `JavaScript`
+* **Frameworks/Librerías:** `Echo` `Fiber` `Django` `Spring`
+* **Bases de Datos:** `PostgreSQL` `MongoDB` `MySQL`
+* **Herramientas y DevOps:** `Git` `Docker` `Linux`
 
 ---
 
@@ -36,9 +36,9 @@ Aquí hay algunas tecnologías y herramientas con las que me gusta trabajar:
 
 ### 📊 Mis Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=WinAndronuX&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Principales Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Principales Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=WinAndronuX&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
