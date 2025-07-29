@@ -34,6 +34,17 @@ Aquí hay algunas tecnologías y herramientas con las que me gusta trabajar:
 
 ---
 
+### ✨ Proyectos Destacados
+
+Aquí te presento algunos de los proyectos en los que he trabajado y de los que estoy más orgulloso:
+
+#### 1. telnetsession
+* **Descripción:** Una librería para conectarse a dispositivos remotos via `Telnet`, creada desde cero.
+* **Tecnologías:** `Go` `Telnet`
+* **Enlace:** [Repositorio](https://github.com/WinAndronuX/telnetsession)
+
+---
+
 ### ✉️ Conéctate conmigo
 
 Estoy abierto a nuevas oportunidades de desarrollo y colaboraciones en proyectos interesantes. Siempre dispuesto a aprender y compartir conocimientos. ¡No dudes en contactarme!
